@@ -44,4 +44,5 @@ All done!
 
 ### Suggestion
 
-Run this command during deployment process in order to automate the cleaning process before you app became active!
+Use this command before you deploy you applications, in order to check the jobs frequency and timing.
+Enjoy.
