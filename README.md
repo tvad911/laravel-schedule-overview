@@ -40,6 +40,8 @@ php artisan schedule:overview
 
 You will see the list os scheduled jobs with all relevant details.
 
+![Alt text](/images/schedule_overview.png?raw=true "Laravel schedule overview")
+
 All done!
 
 ### Suggestion
