@@ -1,0 +1,31 @@
+{
+    "name": "michelecurletta/laravel-schedule-overview",
+    "description": "Show an overview of all scheduled commands",
+    "homepage": "https://github.com/michelecurletta/laravel-schedule-overview",
+    "keywords":
+        [
+            "scheduled",
+            "overview",
+            "laravel"
+        ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michele Giovanni Curletta",
+            "email": "michelecurletta@icloud.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "mtdowling/cron-expression": "^1.1"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "2.0.*@dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "MicheleCurletta\\LaravelScheduleOverview": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
