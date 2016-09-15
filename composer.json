@@ -20,9 +20,9 @@
         "mtdowling/cron-expression": "^1.1"
     },
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "MicheleCurletta\\LaravelScheduleOverview\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
